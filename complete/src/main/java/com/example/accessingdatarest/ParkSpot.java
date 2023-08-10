@@ -13,11 +13,11 @@ public class ParkSpot {
 
     private String parkNumber;
     private String location;
-
     public String getParkNumber() {
         return parkNumber;
     }
 
+    // parkNumber setter
     public void setParkNumber(String parkNumber) {
         this.parkNumber = parkNumber;
     }
