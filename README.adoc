@@ -18,7 +18,7 @@ link:/understanding/REST[RESTful] front end.
 
 == What You Will Build
 
-You will build a Spring application that lets you create and retrieve `Person` objects
+You will build a Spring application that lets you create and retrieve `Person` and `Parking`  objects
 stored in a database by using Spring Data REST. Spring Data REST takes the features of
 https://spring.io/projects/spring-hateoas[Spring HATEOAS] and
 https://spring.io/projects/spring-data-jpa[Spring Data JPA] and automatically combines them
