@@ -13,6 +13,7 @@ public class ParkSpot {
 
     private String parkNumber;
     private String location;
+    private String price;
     public String getParkNumber() {
         return parkNumber;
     }
@@ -28,5 +29,13 @@ public class ParkSpot {
 
     public void setLocation(String location) {
         this.location = location;
+    }
+
+    public String getPrice(){
+        return price;
+    }
+
+    public void setPrice(String price){
+        this.price = price;
     }
 }
